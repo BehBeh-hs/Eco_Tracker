@@ -1,16 +1,6 @@
-# carbon_emission_app
+# Eco Tracker
+An app that calculates carbon emissions from daily transport and electricity use that offers accurate estimates based on user input.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen
+![Screenshot 2025-04-13 at 2 46 14 AM](https://github.com/user-attachments/assets/03b7876d-f4a1-49d7-8365-5dfb11daa188)
+![Screenshot 2025-04-13 at 2 45 04 AM](https://github.com/user-attachments/assets/d94e5228-7a66-4830-b848-9c965570421b)
